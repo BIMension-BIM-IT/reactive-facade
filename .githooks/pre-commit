@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# 커밋 전에 올리면 안 되는 파일 검사
+exec bash "$(git rev-parse --show-toplevel)/tools/check_files.sh"

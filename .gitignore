@@ -1,0 +1,62 @@
+# ---- 인증키 · 개인 설정 ----
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+config.local.*
+*secret*
+*credential*
+
+# ---- 카톡 · 개인 자료 ----
+*KakaoTalk*
+*카카오톡*
+
+# ---- 압축 파일 (필요하면 Releases에) ----
+*.zip
+*.7z
+*.rar
+
+# ---- Unity (스크립트와 가이드만 올림) ----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.unitypackage
+
+# ---- Radiance · EnergyPlus 중간 결과 ----
+*.oct
+*.ill
+eplusout.*
+eplustbl.*
+sqlite.err
+*.eso
+*.mtr
+*_Hourly.csv
+
+# ---- Rhino · SketchUp · Office 백업 ----
+*.3dmbak
+*.rhl
+*.skb
+~$*
+
+# ---- Python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# ---- Node ----
+node_modules/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+desktop.ini
