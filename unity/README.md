@@ -12,6 +12,7 @@
 | `LouverRule_TestVectors.csv` | 규칙 구현 확인용 정답표 |
 | `PACKAGE_README.md` | 스크립트 넣는 방법, 웹 연결 함수 |
 | `GUIDE_Two_Builds.md` | 1784 빌드와 박스 건물 빌드 만드는 방법 |
+| `GlareSim/` | 반사광 시뮬레이션: 우리 건물 유리 · 루버에서 나간 반사가 주변 건물 · 지면에 닿는 곳을 히트맵으로 표시 (루버 스크립트는 고치지 않음, 넣는 방법은 [GlareSim/README.md](GlareSim/README.md)) |
 
 ## 두 가지 모드
 
