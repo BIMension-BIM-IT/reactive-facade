@@ -5,6 +5,7 @@
 웹 코드는 아래 저장소에서 관리합니다. 여기에는 복사하지 않습니다.
 
 - 사이트: https://emmiart7-png.github.io/bimention-bim-it-teamproject/
+- Unity WebGL 빌드: [Releases · unity-webgl-1013v9](https://github.com/BIMension-BIM-IT/reactive-facade/releases/tag/unity-webgl-1013v9) (압축을 풀어 웹 도구의 unity/ 폴더에 넣음)
 - 계산 엔진은 [docs/반응형외피_경제성자료.xlsx](../docs/) 와 같은 식입니다 (엑셀 검증 모드로 0.05% 안에서 일치).
 
 ## 쓰는 순서
