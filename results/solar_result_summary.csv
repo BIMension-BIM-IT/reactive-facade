@@ -1,0 +1,17 @@
+﻿variant,face,season,bare,external_fixed_0deg,external_reactive,fixed_reduction_pct,reactive_reduction_pct,closed_hours_yr,blade_rotation_deg_yr
+winter_on,E,cooling_season,192.5,109.3,65.1,43,66,346,47193
+winter_on,E,heating_season,274.6,108.8,186.9,60,32,346,47193
+winter_on,S,cooling_season,276.7,143.4,96.7,48,65,401,79496
+winter_on,S,heating_season,606.1,366.5,503.9,40,17,401,79496
+winter_on,W,cooling_season,300.5,204.0,91.4,32,70,656,44309
+winter_on,W,heating_season,260.4,114.4,171.8,56,34,656,44309
+winter_on,N,cooling_season,103.1,49.2,49.2,52,52,0,0
+winter_on,N,heating_season,136.4,81.3,81.3,40,40,0,0
+winter_off,E,cooling_season,192.5,109.3,65.1,43,66,425,36773
+winter_off,E,heating_season,274.6,108.8,89.7,60,67,425,36773
+winter_off,S,cooling_season,276.7,143.4,96.7,48,65,970,49140
+winter_off,S,heating_season,606.1,366.5,135.1,40,78,970,49140
+winter_off,W,cooling_season,300.5,204.0,91.4,32,70,771,34602
+winter_off,W,heating_season,260.4,114.4,98.7,56,62,771,34602
+winter_off,N,cooling_season,103.1,49.2,49.2,52,52,0,0
+winter_off,N,heating_season,136.4,81.3,81.3,40,40,0,0

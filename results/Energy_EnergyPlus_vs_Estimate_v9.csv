@@ -1,0 +1,9 @@
+﻿case,kind,load,boiler,heatpump
+bare,estimate,87.3,36.5,25.6
+bare,energyplus,87.3,36.5,25.6
+fixed0,estimate,86.3,49.4,26.1
+fixed0,energyplus,82.9,40.9,24.7
+reactive,estimate,85.7,58.4,26.4
+reactive,energyplus,81.4,47.6,24.7
+reactive_winter_v9,estimate,66.4,37.0,20.0
+reactive_winter_v9,energyplus,70.6,37.3,21.2

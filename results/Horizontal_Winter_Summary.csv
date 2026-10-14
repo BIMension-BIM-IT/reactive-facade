@@ -1,0 +1,4 @@
+﻿face,bare_kWh_m2,fixed0_kWh_m2,rule_closed_kWh_m2,winter_kWh_m2,fixed_reduction_pct,rule_reduction_pct,winter_reduction_pct
+E,274.6,140.5,69.1,208.4,49,75,24
+S,606.1,331.9,119.3,548.0,45,80,10
+W,260.4,143.6,87.3,194.5,45,66,25
