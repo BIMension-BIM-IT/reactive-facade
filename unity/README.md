@@ -28,6 +28,15 @@
 | `bimit지형작은거.3dm` | `bimit_site_terrain_small.3dm` | 140 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/site-v1/bimit_site_terrain_small.3dm) |
 | `유니티용bimit지형작은거.3dm` | `bimit_site_terrain_small_unity.3dm` | 187 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/site-v1/bimit_site_terrain_small_unity.3dm) |
 
+## Unity 프로젝트 전체 (Releases)
+
+이 폴더에는 스크립트와 가이드만 올리고, 작업 중인 Unity 프로젝트 전체는 [Releases](https://github.com/BIMension-BIM-IT/reactive-facade/releases/tag/unity-project-1014)에 zip으로 올렸습니다.
+
+| 파일 | 내용 | 크기 | 링크 |
+|---|---|---|---|
+| `unity_project_1014.zip` | Unity 프로젝트 (Assets · Packages · ProjectSettings, Library 제외) | 249 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/unity-project-1014/unity_project_1014.zip) |
+| `GlareSim_1012.zip` | 10/12 반사광 작업 폴더 (GlareSim, 웹 도구 docs, unity-bridge), VWorld 키는 `YOUR_KEY_HERE`로 바꿈 | 41 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/unity-project-1014/GlareSim_1012.zip) |
+
 ## 올리지 않는 것
 
 - Unity 프로젝트 전체 (Library, Temp, Builds)
