@@ -19,6 +19,15 @@
 - **CSV 모드 (1784):** 미리 계산한 각도표를 읽어 루버를 돌림
 - **직접 계산 모드 (다른 건물):** 위도 · 경도와 입면 방향만으로 Unity 안에서 태양 위치와 루버 각도를 바로 계산
 
+## 대지 · 지형 모델 (Releases)
+
+50MB가 넘어서 이 폴더에 올리지 않고 [Releases](https://github.com/BIMension-BIM-IT/reactive-facade/releases/tag/site-v1)에 올렸습니다. 파일 이름은 GitHub에서 한글이 깨지지 않도록 영문으로 바꿨습니다.
+
+| 원래 파일 이름 | Releases 파일 | 크기 | 링크 |
+|---|---|---|---|
+| `bimit지형작은거.3dm` | `bimit_site_terrain_small.3dm` | 140 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/site-v1/bimit_site_terrain_small.3dm) |
+| `유니티용bimit지형작은거.3dm` | `bimit_site_terrain_small_unity.3dm` | 187 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/site-v1/bimit_site_terrain_small_unity.3dm) |
+
 ## 올리지 않는 것
 
 - Unity 프로젝트 전체 (Library, Temp, Builds)
