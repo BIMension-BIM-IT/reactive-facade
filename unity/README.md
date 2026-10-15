@@ -37,6 +37,12 @@
 | `unity_project_1014.zip` | Unity 프로젝트 (Assets · Packages · ProjectSettings, Library 제외) | 249 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/unity-project-1014/unity_project_1014.zip) |
 | `GlareSim_1012.zip` | 10/12 반사광 작업 폴더 (GlareSim, 웹 도구 docs, unity-bridge), VWorld 키는 `YOUR_KEY_HERE`로 바꿈 | 41 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/unity-project-1014/GlareSim_1012.zip) |
 
+## WebGL 빌드 (Releases)
+
+| 파일 | 내용 | 크기 | 링크 |
+|---|---|---|---|
+| `unity_webgl_1015.zip` | 10/15 WebGL 빌드 (Build · StreamingAssets, 웹 도구 unity/ 폴더용) | 41 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/unity-webgl-1015/unity_webgl_1015.zip) |
+
 ## 올리지 않는 것
 
 - Unity 프로젝트 전체 (Library, Temp, Builds)
