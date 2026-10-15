@@ -13,6 +13,7 @@
 | `PACKAGE_README.md` | 스크립트 넣는 방법, 웹 연결 함수 |
 | `GUIDE_Two_Builds.md` | 1784 빌드와 박스 건물 빌드 만드는 방법 |
 | `GlareSim/` | 반사광 시뮬레이션: 우리 건물 유리 · 루버에서 나간 반사가 주변 건물 · 지면에 닿는 곳을 히트맵으로 표시 (루버 스크립트는 고치지 않음, 넣는 방법은 [GlareSim/README.md](GlareSim/README.md)) |
+| `IndoorGlare_1015/IndoorGlare/` | 실내 눈부심(DGP) 시뮬레이션: Grasshopper Glare 1/2/3을 Unity로 옮긴 것, GlareSim과 완전히 분리 (넣는 방법은 [IndoorGlare/README.md](IndoorGlare_1015/IndoorGlare/README.md)) |
 
 ## 두 가지 모드
 
