@@ -41,7 +41,8 @@
 
 | 파일 | 내용 | 크기 | 링크 |
 |---|---|---|---|
-| `unity_webgl_1015_glare.zip` | 10/15 WebGL 빌드 빛반사 연결본 (가장 최근, 반사광 결과를 웹으로 보내는 연결 추가) | 42 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/unity-webgl-1015/unity_webgl_1015_glare.zip) |
+| `unity_webgl_1015_glare_v2.zip` | 10/15 WebGL 빌드 빛반사 연결본 v2 (가장 최근, glare 빌드를 다시 빌드) | 42 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/unity-webgl-1015/unity_webgl_1015_glare_v2.zip) |
+| `unity_webgl_1015_glare.zip` | 10/15 WebGL 빌드 빛반사 연결본 (반사광 결과를 웹으로 보내는 연결 추가) | 42 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/unity-webgl-1015/unity_webgl_1015_glare.zip) |
 | `unity_webgl_1015_webfix.zip` | 10/15 WebGL 빌드 웹 연결 수정본 (아래 빌드 이후 버전) | 42 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/unity-webgl-1015/unity_webgl_1015_webfix.zip) |
 | `unity_webgl_1015.zip` | 10/15 WebGL 빌드 (Build · StreamingAssets, 웹 도구 unity/ 폴더용) | 41 MB | [받기](https://github.com/BIMension-BIM-IT/reactive-facade/releases/download/unity-webgl-1015/unity_webgl_1015.zip) |
 
